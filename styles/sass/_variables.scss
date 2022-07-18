@@ -1,0 +1,57 @@
+/* Colors */
+
+/* Global Settings */
+$screen-resolution: 1920px;
+$global-side-gutter: 4.9vw;
+$global-breakpoint: md;
+$global-mb-factor: 3;
+$form-height: 1.75vw;
+
+$global-transition-duration: 200ms;
+$global-transform-scale: 1.075;
+
+// Margins
+$margin-mobile-form: 2.5vw 0 2.5vw 0;
+$margin-desktop-form: 0.5vw 0 0.5vw 0;
+
+$margin-mobile-nav: 2.5vw 0 2.5vw 0;
+$margin-desktop-nav: 0.5vw 0 0.5vw 0;
+
+$padding-mobile-form: 2.75vw;
+$padding-desktop-form: 3vw;
+
+// vw Size
+$xs-font: 0.73vw; // 12
+$s-font: 0.84vw; // 14
+$sm-font: 0.94vw; // 16
+$m-font: 1vw; // 18
+$md-font: 1.19vw; // 21
+$l-font: 1.25vw; // 24
+$lg-font: 1.35vw; // 26
+$xl-font: 1.67vw; // 32
+$xxl-font: 2.25vw; // 42
+
+/* vw size clamped
+$xs-font: clamp(08px, 0.63vw, 14px); // 12
+$s-font: clamp(12px, 0.73vw, 16px); // 14
+$sm-font: clamp(14px, 0.83vw, 18px); // 16
+$m-font: clamp(16px, 0.94vw, 21px); // 18
+$md-font: clamp(18px, 1.09vw, 24px); // 21
+$l-font: clamp(20px, 1.32vw, 26px); // 24
+$lg-font: clamp(21px, 1.42vw, 32px); // 26
+$xl-font: clamp(24px, 1.8vw 38px); // 32
+$xxl-font: clamp(32px, 2.19vw, 42px); // 42
+
+*/
+
+/* .rem Size
+$xs-font: 0.8rem;
+$s-font: 1.0rem;
+$sm-font: 1.072rem;
+$m-font: 1.2rem;
+$md-font: 1.328rem;
+$l-font: 1.6rem;
+$lg-font: 1.872rem;
+$xl-font: 2.4rem;
+$xxl-font: 3.2rem; 
+*/
